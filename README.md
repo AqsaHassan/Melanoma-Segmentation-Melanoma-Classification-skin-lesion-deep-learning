@@ -4,5 +4,5 @@ Skin lesion is one of the common contributors to deaths globally. However, early
 
 For more detials, please read the report of this project.
 
-[Project Report](Melanoma_segmentation_and_classification_using_dermoscopy_images_via_integrated_deep_neural_network (5).pdf)
+[Project Report](./main/Melanoma_segmentation_and_classification_using_dermoscopy_images_via_integrated_deep_neural_network%20(5).pdf)
 
